@@ -44,7 +44,8 @@ This project was inspired by the original [privateGPT](https://github.com/imarti
 1. 📥 Clone the repo using git:
 
 ```shell
-git clone https://github.com/kkailaasa/nithyanandaGPT.git
+git clone https://github.com/kkailaasa/nithyanandaGPT_1.git
+cd nithyanandaGPT_1
 ```
 
 2. 🐍 Install [conda](https://www.anaconda.com/download) for virtual environment management. Create and activate a new virtual environment.
